@@ -1,3 +1,8 @@
+#Sample  login credentials 
+To interact with this authentication system kindly use the following
+Username: Cookie
+Password: Cookie@222003
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
