@@ -4,6 +4,10 @@
 
 This chat application is designed to provide a real-time chatting experience similar to Discord communities. It leverages React.js for the frontend, Socket.io for real-time communication, and is hosted using ChatEngine.io, which simplifies the backend setup. With this application, users can create and join chat rooms, exchange messages, and interact with other users seamlessly.
 
+<img width="960" alt="a" src="https://github.com/anshita-21/ChatStream/assets/140099324/8ffd269d-7d49-4f78-af08-87c48e5f27ca">
+<img width="960" alt="b" src="https://github.com/anshita-21/ChatStream/assets/140099324/d441d7b9-72fc-494d-95f5-38190345e352">
+
+
 ## Features
 
 - **User Registration and Authentication:** Secure user registration and authentication systems are in place to protect user accounts.
